@@ -209,13 +209,13 @@ video{
 	left:0;
 	height: 99.5vh;
 	width: 99vw;
-	
+	overflow: hidden;
 	display:none;
 }
 .content-2{
 	
 	height:100%;
-	width: 100vw;
+	width: 99.5vw;
 	overflow: hidden;
 }
 
