@@ -24,7 +24,7 @@ img{
 	
 }
 #frame{
-	max-width: 500px;
+	width: 99vh;
 	
 	background: linear-gradient(to bottom, #ff0f50, #fcac46);
 	height: 100vh;
