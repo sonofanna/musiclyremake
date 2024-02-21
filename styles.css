@@ -193,7 +193,8 @@ video{
 	position:relative;
 	display:relative;
 	margin:auto;
-	height:112%;
+	height:100%;
+	width:98vw;
 	padding:0;
 	margin:0;
 	
